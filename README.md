@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio! I'm Marina Glik, a Cybersecurity Manageme
 
 ## 📂 Contents
 
-- **Projects:** Real-world cybersecurity and scripting projects, including automation tools, vulnerability assessments, and log analysis.
+- **Projects:** Real-world cybersecurity and scripting projects.
 - **Certifications:** AWS Cloud Practitioner (in progress), Security+ (upcoming), and more.
 - **Resume:** Downloadable PDF and professional overview.
 
