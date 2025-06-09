@@ -11,6 +11,6 @@ Welcome to my cybersecurity portfolio! I'm Marina Glik, a Cybersecurity Manageme
 
 ## ✨ Contact
 
-- **Email:** marinaglik@mynsu.nova.edu
+- **Email:** mg3494@mynsu.nova.edu
 - **LinkedIn:** https://www.linkedin.com/in/marinaglik/
 
